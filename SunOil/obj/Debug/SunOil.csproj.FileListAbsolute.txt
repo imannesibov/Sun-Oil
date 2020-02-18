@@ -1,0 +1,80 @@
+C:\Users\NXsi_qew2\source\repos\SunOil\SunOil\bin\Debug\SunOil.exe.config
+C:\Users\NXsi_qew2\source\repos\SunOil\SunOil\bin\Debug\SunOil.exe
+C:\Users\NXsi_qew2\source\repos\SunOil\SunOil\bin\Debug\SunOil.pdb
+C:\Users\NXsi_qew2\source\repos\SunOil\SunOil\obj\Debug\SunOil.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\source\repos\SunOil\SunOil\obj\Debug\SunOil.SunOil.resources
+C:\Users\NXsi_qew2\source\repos\SunOil\SunOil\obj\Debug\SunOil.Properties.Resources.resources
+C:\Users\NXsi_qew2\source\repos\SunOil\SunOil\obj\Debug\SunOil.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\source\repos\SunOil\SunOil\obj\Debug\SunOil.exe
+C:\Users\NXsi_qew2\source\repos\SunOil\SunOil\obj\Debug\SunOil.pdb
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\SunOil\bin\Debug\SunOil.exe.config
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\SunOil\bin\Debug\SunOil.exe
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\SunOil\bin\Debug\SunOil.pdb
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\SunOil\obj\Debug\SunOil.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\SunOil\obj\Debug\SunOil.SunOil.resources
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\SunOil\obj\Debug\SunOil.Properties.Resources.resources
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\SunOil\obj\Debug\SunOil.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\SunOil\obj\Debug\SunOil.exe
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\SunOil\obj\Debug\SunOil.pdb
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\bin\Debug\SunOil.exe.config
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\bin\Debug\SunOil.exe
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\bin\Debug\SunOil.pdb
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\obj\Debug\SunOil.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\obj\Debug\SunOil.SunOil.resources
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\obj\Debug\SunOil.Properties.Resources.resources
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\obj\Debug\SunOil.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\obj\Debug\SunOil.exe
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\obj\Debug\SunOil.pdb
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\bin\Debug\MaterialSkin.dll
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\bin\Debug\MetroFramework.Design.dll
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\bin\Debug\MetroFramework.dll
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\obj\Debug\SunOil.csproj.CopyComplete
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\bin\Debug\SunOil.exe.config
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\bin\Debug\SunOil.exe
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\bin\Debug\SunOil.pdb
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\bin\Debug\MaterialSkin.dll
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\bin\Debug\MetroFramework.Design.dll
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\bin\Debug\MetroFramework.dll
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\obj\Debug\SunOil.csprojAssemblyReference.cache
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\obj\Debug\SunOil.SunOil.resources
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\obj\Debug\SunOil.Properties.Resources.resources
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\obj\Debug\SunOil.csproj.GenerateResource.cache
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\obj\Debug\SunOil.csproj.CopyComplete
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\obj\Debug\SunOil.exe
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\obj\Debug\SunOil.pdb
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\bin\Debug\SunOil.exe.config
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\bin\Debug\SunOil.exe
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\bin\Debug\SunOil.pdb
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\bin\Debug\MaterialSkin.dll
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\bin\Debug\MetroFramework.Design.dll
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\bin\Debug\MetroFramework.dll
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\obj\Debug\SunOil.csprojAssemblyReference.cache
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\obj\Debug\SunOil.SunOil.resources
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\obj\Debug\SunOil.Properties.Resources.resources
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\obj\Debug\SunOil.csproj.GenerateResource.cache
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\obj\Debug\SunOil.csproj.CopyComplete
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\obj\Debug\SunOil.exe
+C:\Users\lenovo 330\Desktop\New folder\SunOil\SunOil\obj\Debug\SunOil.pdb
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo 330\Desktop\SunOil\SunOil\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\obj\Debug\SunOil.csprojAssemblyReference.cache
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\obj\Debug\SunOil.SunOil.resources
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\obj\Debug\SunOil.Properties.Resources.resources
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\obj\Debug\SunOil.csproj.GenerateResource.cache
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\obj\Debug\SunOil.exe
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\obj\Debug\SunOil.pdb
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\bin\Debug\SunOil.exe.config
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\bin\Debug\SunOil.exe
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\bin\Debug\SunOil.pdb
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\bin\Debug\MaterialSkin.dll
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\bin\Debug\MetroFramework.Design.dll
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\bin\Debug\MetroFramework.dll
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo 330\Desktop\NEW sUNoIL\SunOil\SunOil\obj\Debug\SunOil.csproj.CopyComplete
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NXsi_qew2\Desktop\SunOil\SunOil\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,15 @@
+[
+  null,
+  {
+    "petrolType": 0,
+    "Price": 0.0,
+    "Unit": null,
+    "TotalPetrolPrice": 0.0,
+    "TotalCafePrice": "100",
+    "TotalGSPrice": "100",
+    "foodWithTotalPrice": {
+      "SunOil.Food": 100.0
+    },
+    "BuyingDate": "2020-02-18T08:38:53.4772849+04:00"
+  }
+]
